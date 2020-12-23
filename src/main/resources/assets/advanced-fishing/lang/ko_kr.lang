@@ -1,0 +1,51 @@
+# 탭 - 구글링을 쉽게 하기 위해 모드 이름은 영어로 유지
+itemGroup.tabFish=Advanced Fishing
+
+# 품목
+## 낚싯대
+item.advanced-fishing.blazing_fishing_pole.name=타오르는 낚싯대
+
+## 물고기
+item.advanced-fishing.blue_jellyfish.name=해파리
+item.advanced-fishing.magma_jellyfish.name=용암 해파리
+item.advanced-fishing.mud_tuna.name=진흙 참치
+item.advanced-fishing.frost_minnow.name=얼음 피라미
+item.advanced-fishing.piranha.name=피라냐
+item.advanced-fishing.golden_koi.name=황금 잉어
+item.advanced-fishing.specular_snapper.name=거울 도미
+item.advanced-fishing.cave_trout.name=동굴 송어
+item.advanced-fishing.obsidian_bream.name=흑요석 도미
+item.advanced-fishing.nether_sturgeon.name=네더 철갑 상어
+item.advanced-fishing.quartz_chub.name=석영 잉어
+item.advanced-fishing.flarefin_koi.name=타오르는 지느러미 잉어
+item.advanced-fishing.blaze_pike.name=타오르는 강꼬치고기
+item.advanced-fishing.ender_shad.name=엔더 청어
+item.advanced-fishing.pearl_sardine.name=진주 정어리
+item.advanced-fishing.chorus_koi.name=후렴 잉어
+item.advanced-fishing.explosive_crucian.name=폭발 붕어
+item.advanced-fishing.ruffe.name=민물 농어
+item.advanced-fishing.sparkling_eel.name=발광 뱀장어
+item.advanced-fishing.angelfish.name=엔젤 피쉬
+item.advanced-fishing.angler_fish.name=아귀
+item.advanced-fishing.sponge_eater.name=임페리얼 엔젤피쉬
+item.advanced-fishing.snowy_walleye.name=눈꽃 월아이피쉬
+item.advanced-fishing.squid.name=오징어
+item.advanced-fishing.withered_crucian.name=시든 붕어
+item.advanced-fishing.sandy_bass.name=모래 농어
+item.advanced-fishing.mandarinfish.name=쏘가리
+item.advanced-fishing.red_shroomfin.name=빨간 슈룸핀
+item.advanced-fishing.brown_shroomfin.name=갈색 슈룸핀
+item.advanced-fishing.fungi_catfish.name=버섯 메기
+item.advanced-fishing.swamp_plaice.name=늪 가자미
+item.advanced-fishing.crystal_mullet.name=수정 숭어
+item.advanced-fishing.charged_bullhead.name=충전된 메기
+item.advanced-fishing.abyssal_lurker.name=심해 잠어
+item.advanced-fishing.sunfish.name=개복치
+item.advanced-fishing.glacier_anchovy.name=빙하 멸치
+item.advanced-fishing.catfish.name=메기
+item.advanced-fishing.pike.name=강꼬치고기
+item.advanced-fishing.magikarp.name=잉어킹
+item.advanced-fishing.green_jellyfish.name=녹색 해파리
+item.advanced-fishing.bone_fish.name=뼈고기
+item.advanced-fishing.cursed_koi.name=저주받은 잉어
+item.advanced-fishing.spookyfin.name=유령고기
